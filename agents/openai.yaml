@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo Retouch Pro · 自然精修"
+  short_description: "十类照片精修：锁定身份与自然质感，支持清理、换背景、换装、扩图和修闭眼"
+  default_prompt: "使用 $photo-retouch-pro 精修我提供的照片，按需求选择编辑模式，保留人物身份、自然质感与未指定修改的细节。"
